@@ -1,4 +1,4 @@
-# SDT HKS Repository
+# Sekiro: Shadows Die Twice HKS Repository
 Contains pre-configured HKS files for Sekiro: Shadows Die Twice.
 
 HKS (HavokScript) files act as a interface script between inputs and animations, controlling the 'behavior' of the source entity
